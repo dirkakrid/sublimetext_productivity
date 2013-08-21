@@ -1,0 +1,5 @@
+[{ "keys": ["ctrl+g"], "command": "sublime_to_gist" },
+{ "keys": ["ctrl+shift+["], "command": "stringifier" },
+{ "keys": ["ctrl+shift+k"], "command": "url_opener" },
+{ "keys": ["ctrl+alt+p"], "command": "printifier" }
+]
