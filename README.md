@@ -1,4 +1,4 @@
 sublimetext_productivty
 =======================
 
-a small collection of plugins I find usefil
+a small collection of plugins I find useful
