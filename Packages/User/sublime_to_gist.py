@@ -20,7 +20,7 @@ import json
 import sys
 import sublime, sublime_plugin
 import os.path
-from urllib import urlopen
+from urllib.request import urlopen
 
 def nothing_selected():
     sublime.status_message('nothing selected, fool')
