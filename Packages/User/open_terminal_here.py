@@ -1,4 +1,4 @@
-  import sublime, sublime_plugin
+import sublime, sublime_plugin
 import os
 import subprocess
 import threading
