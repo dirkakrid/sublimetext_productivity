@@ -1,0 +1,4 @@
+[
+	{"command": "add_file_to_git"},
+	{"command": "open_gitbash_here"}
+]
